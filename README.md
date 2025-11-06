@@ -1,2 +1,3 @@
 # repositorio de Alejandra
+parte desarrollada por Daniel Gómez Teruel
 Parte desarrollada por Alejandro Herrero Ganso.
